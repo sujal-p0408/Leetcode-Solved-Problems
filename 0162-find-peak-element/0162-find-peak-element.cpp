@@ -16,7 +16,9 @@ public:
           if(nums[mid]>nums[mid-1] && nums[mid]>nums[mid+1])
           return mid;
           
-          else if(nums[mid+1]>nums[mid]) l=mid+1;
+        //   if mid is not peak then either it's right element or left element can be peak
+        //   ex. 3,2,1 here mid is 2 but not peak hence peak can be 1 or 3 (here 3 is greater hance shifted there)
+          else if(nums[mid+1]>nums[mid]) l=mid+1; 
           else if(nums[mid-1]>nums[mid]) r=mid-1;
     }
    return 0;
