@@ -11,20 +11,29 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head==NULL || head->next==NULL) return head;
-
-        ListNode* temp=head;
-        ListNode* prev=NULL;
-        ListNode* front=temp;
-
-        while(temp!=NULL)
-        {
-            front=temp->next;
-            temp->next=prev;
-            prev=temp;
-            temp=front;
-        }
-        
-        return prev;
+        if (head == NULL || head->next == NULL) {
+        return head;
+    }
+    
+    // Recursive step:
+    // Reverse the linked list starting 
+    // from the second node (head->next).
+    ListNode* newHead = reverseList(head->next);
+    
+    // Save a reference to the node following
+    // the current 'head' node.
+    ListNode* front = head->next;
+    
+    // Make the 'front' node point to the current
+    // 'head' node in the reversed order.
+    front->next = head;
+    
+    // Break the link from the current 'head' node
+    // to the 'front' node to avoid cycles.
+    head->next = NULL;
+    
+    // Return the 'newHead,' which is the new
+    // head of the reversed linked list.
+    return newHead;
     }
 };
