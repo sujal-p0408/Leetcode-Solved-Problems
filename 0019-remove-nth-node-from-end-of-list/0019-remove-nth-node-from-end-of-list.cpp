@@ -10,41 +10,29 @@
  */
 class Solution {
 public:
-ListNode* removeK (ListNode* head, int k) {
-if (head == NULL) return head;
-if(k == 1) {
-ListNode* temp = head;
- head=head->next;
-delete temp;
-return head;
-}
-int cnt = 0;
-ListNode* temp = head;
-ListNode* prev = NULL;
-while(temp != NULL) {
-cnt++;
-if (cnt== k) {
-prev->next = prev->next->next;
-delete temp;
-break;
-}
-prev = temp;
-temp = temp->next;
-}
-return head;
-}
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if(head==NULL || head->next==NULL) return NULL;
-        int cnt=0;
-        ListNode* temp=head;
-        while(temp!=NULL)
-        {
-            cnt++;
-            temp=temp->next;
-        }
+        ListNode* fast=head;
+        ListNode* slow=head;
 
-        int new_n=cnt-n+1;
+        while(n)
+        {
+            n--;
+            fast=fast->next;
+        }
+         if(fast==NULL)  //when n==size of LL then and it wants to delete the first node
+         {
+         return head->next;
+         }
+        while(fast->next!=NULL)
+        {
+            fast=fast->next;
+            slow=slow->next;
+        }
         
-        return removeK(head,new_n);
+        ListNode* temp=slow->next;
+        slow->next=temp->next;
+        delete temp;
+
+        return head;
     }
 };
