@@ -6,3 +6,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0328-odd-even-linked-list) |
