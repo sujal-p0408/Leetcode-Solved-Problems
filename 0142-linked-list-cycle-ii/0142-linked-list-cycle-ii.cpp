@@ -18,16 +18,18 @@ public:
             slow=slow->next;
             fast=fast->next->next;
 
-            if(slow==fast)  {slow=head;
-            break;
+            if(slow==fast)  
+            {
+            slow=head;
+            while(slow!=fast)
+        {
+             slow=slow->next;
+             fast=fast->next;
+        }
+            return slow;
             }
         }
-        while(slow!=fast)
-        {
-            if(slow->next) slow=slow->next;
-            if(fast->next) fast=fast->next;
-        }
-        if(slow==fast && fast->next!=NULL && fast->next->next!=NULL) return slow;
+        
         return NULL;
     }
 };
