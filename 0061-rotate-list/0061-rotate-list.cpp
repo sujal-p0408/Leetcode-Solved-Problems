@@ -26,11 +26,15 @@ public:
         if(k==0) return head;
 
         tail->next=head;
-        int traverse=n-k-1;
-        while(traverse)
+        // int traverse=n-k-1;
+        // while(traverse)
+        // {
+        //     temp=temp->next;
+        //     traverse--;
+        // }
+        for(int i=1;i<(n-k);i++)
         {
             temp=temp->next;
-            traverse--;
         }
         cout<<temp->val;
         head=temp->next;
