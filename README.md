@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0937-online-stock-span) |
@@ -64,10 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0937-online-stock-span) |
 # Design
@@ -78,3 +81,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0937-online-stock-span) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0085-maximal-rectangle) |
+# Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0085-maximal-rectangle) |
