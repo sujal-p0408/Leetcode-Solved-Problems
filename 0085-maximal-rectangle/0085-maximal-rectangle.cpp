@@ -62,7 +62,7 @@ vector<int> findNSL(vector<int>& arr, int n)
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n=matrix.size(); //rows
-        // if(n==0) return 0;
+        if(n==0) return 0;
         int m=matrix[0].size(); //columns
         
         vector<int> v(m,0);
