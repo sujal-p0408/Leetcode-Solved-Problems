@@ -14,22 +14,22 @@ public:
         //   maxHeight[i]=min(left_max[i])
              left_max=max(left_max,height[i]);
              left[i]=left_max;
-             cout<<left[i]<<" ";
+            //  cout<<left[i]<<" ";
         }
-        cout<<endl;
+        // cout<<endl;
           for(int i=n-1;i>=0;i--)
         {
         //   maxHeight[i]=min(left_max[i])
              right_max=max(right_max,height[i]);
              right[i]=right_max;
-             cout<<left[i]<<" ";
+            //  cout<<left[i]<<" ";
         }
- cout<<endl;
+//  cout<<endl;
         for(int i=0;i<n;i++)
         {
             maxHeight[i]=min(left[i],right[i])-height[i];
         }
-    int ans=accumulate(maxHeight.begin(),maxHeight.end(),0);
-        return ans;
+    
+        return accumulate(maxHeight.begin(),maxHeight.end(),0);
     }
 };
