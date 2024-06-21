@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 # Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 # Design
 |  |
 | ------- |
