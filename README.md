@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0402-remove-k-digits) |
 # Simulation
 |  |
@@ -136,3 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0402-remove-k-digits) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
