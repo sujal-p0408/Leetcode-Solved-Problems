@@ -12,13 +12,13 @@ public:
         {
           if(nums[r]==0) cntZero++;
         
-          while(cntZero > k)  // If zero count exceeds k, shrink the window from the left
+          if(cntZero > k)  // If zero count exceeds k, shrink the window from the left
           {
             if(nums[l]==0) cntZero--;
             l++;
           }
           
-          max1s=max(max1s,r-l+1);
+         if(cntZero<=k) max1s=max(max1s,r-l+1); // max1s get increases only if we get new bigger window
           r++;
         }
         return max1s;
