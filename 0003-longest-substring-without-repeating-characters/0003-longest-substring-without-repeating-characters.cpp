@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int arr[128];
+    int hash[128];
     int lengthOfLongestSubstring(string s) {
         int n=s.size();
         if(n==0 || n==1) return n;
@@ -12,16 +12,16 @@ public:
         while(r<n)
         {
             
-            if(arr[s[r]]==0)
+            if(hash[s[r]]==0)
             {
                 max_len=max(max_len,r-l+1);
-                arr[s[r]]++;
+                hash[s[r]]++;
                  r++;
             }
 
             else
             {
-               arr[s[l]]--;
+               hash[s[l]]--;
                 l++;
             }
             
