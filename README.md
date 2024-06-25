@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 # Monotonic Stack
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Heap (Priority Queue)
 |  |
@@ -164,4 +166,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+# Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
