@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0402-remove-k-digits) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Heap (Priority Queue)
