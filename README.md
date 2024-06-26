@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
+| [0485-max-consecutive-ones](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0735-asteroid-collision) |
