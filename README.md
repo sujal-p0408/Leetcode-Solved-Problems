@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 # Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
+| [0966-binary-subarrays-with-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Heap (Priority Queue)
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Binary Search
