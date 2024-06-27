@@ -19,10 +19,10 @@ public:
              l++;
         }
 
-        // if((r-l+1-maxf) <= k)
-        // {
+        if((r-l+1-maxf) <= k)
+        {
             max_len=max(max_len,r-l+1);
-        // }
+        }
 
         r++;
        }
