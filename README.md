@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 # Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 # Monotonic Stack
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Heap (Priority Queue)
 |  |
@@ -184,3 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+# Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
