@@ -19,7 +19,7 @@ public:
              l++;
         }
 
-        if((r-l+1-maxf) <= k)
+        else if((r-l+1-maxf) <= k)
         {
             max_len=max(max_len,r-l+1);
         }
