@@ -1,7 +1,8 @@
 class Solution {
 public:
      int characterReplacement(string s, int k) {
-        int map[26]={0};
+        // int map[26]={0};
+        unordered_map<char,int>map(26);
         int n=s.size();
         int max_len = 0;
         int l = 0;
@@ -19,7 +20,7 @@ public:
              l++;
         }
 
-        else 
+        else if((r-l+1-maxf) <= k)
         {
             max_len=max(max_len,r-l+1);
         }
