@@ -194,3 +194,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
+<!---LeetCode Topics End-->
