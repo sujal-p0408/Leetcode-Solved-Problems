@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        unordered_map<char,int> map1;
-	    unordered_map<char,int> map2;
+        unordered_map<char,int> map1(26);
+	    unordered_map<char,int> map2(26);
         vector<int> ans;
 	    
 	    for(int i=0;i<p.size();i++)
@@ -22,9 +22,13 @@ public:
 
 	    while(r<s.size())
 	    {
-	        if(map1==map2){
+            if(map1.size()==map2.size())
+            {
+              if(map1==map2){
                 ans.push_back(l);
             }
+            }
+	        
 	        
 	        map2[s[l]]--;
 	         if (map2[s[l]] == 0) {
