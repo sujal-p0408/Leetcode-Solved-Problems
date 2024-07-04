@@ -11,9 +11,10 @@ public:
            mid=(low+high)/2;
            if(nums[mid]==target) return true;
             
-           if(nums[low]==nums[mid]) // new condition to handle duplicates
+           if(nums[low]==nums[mid] && nums[mid]==nums[high]) // new condition to handle duplicates
            {
                low++;
+               high--;
                continue;
            }
            
