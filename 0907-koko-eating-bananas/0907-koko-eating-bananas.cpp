@@ -1,31 +1,34 @@
 class Solution {
 public:
+    long long solve(vector<int>& piles,int hours)
+    {
+        long long total=0;
+      for(auto x:piles)
+      {
+        total+=ceil((double)x/(double)hours);
+      }
+      
+      cout<<total<<" ";
+      return total;
+    }
     int minEatingSpeed(vector<int>& piles, int h) {
-         int n=piles.size();
-         long long sum =0;
-         for(long long pile : piles){
-            sum+=pile;
-         }
-         int mini = (sum+h-1)/h;
-         //  int mini = ceil((double)sum/(double)h);
-         int maxi=*max_element(piles.begin(),piles.end());
-          
-         int l=mini;
-         int r=maxi;
+        int l=1;
+        int r=*max_element(piles.begin(),piles.end());
+        int ans;
+        while(l<=r)
+        {
+            int mid =(l+r)/2;
+            long long hours=solve(piles,mid);
          
-        while (l <= r) {
-            int k = (l + r) / 2;
-            int t = 0;
-            for (int pile : piles) {
-                t += (pile + k - 1) / k;
+            if(hours<=h)
+            {
+              ans=mid;
+              r=mid-1;
             }
-            if (t <= h) {
-                r = k-1;
-            } else {
-                l = k + 1;
-            }
+
+            else l=mid+1;
         }
-         return l;
-        
+
+        return ans;
     }
 };
