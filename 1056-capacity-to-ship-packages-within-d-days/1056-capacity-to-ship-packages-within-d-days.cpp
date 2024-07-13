@@ -1,17 +1,36 @@
 class Solution {
 public:
-    int shipWithinDays(vector<int>& weights, int D) {
-         int left = 0, right = 25000000;
-        for (int w: weights)
-            left = max(left, w);
-        while (left < right) {
-            int mid = (left + right) / 2, need = 1, cur = 0;
-            for (int i = 0; i < weights.size() && need <= D; cur += weights[i++])
-                if (cur + weights[i] > mid)
-                    cur = 0, need++;
-            if (need > D) left = mid + 1;
-            else right = mid;
+    int find_days(vector<int>& weights, int x)
+    {
+        int days=1;
+        int load=0;
+
+        for(auto i: weights)
+        {
+            load+=i;
+
+            if(load>x)
+            {
+                days++;
+                load=i;
+            }
         }
-        return left;
+
+        return days;
+
+    }
+    int shipWithinDays(vector<int>& weights, int days) {
+        int low=*max_element(weights.begin(),weights.end());
+        int high=accumulate(weights.begin(),weights.end(),0);
+
+        while(low<=high)
+        {
+           int mid=(low+high)/2;
+           int day=find_days(weights,mid);
+           if(day<=days) high=mid-1;
+           else low=mid+1;
+        }
+
+        return low;
     }
 };
