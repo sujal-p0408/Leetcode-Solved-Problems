@@ -14,7 +14,7 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int l=1;
         int r=*max_element(piles.begin(),piles.end());
-        int ans;
+        // int ans;
         while(l<=r)
         {
             int mid =(l+r)/2;
@@ -22,13 +22,13 @@ public:
          
             if(hours<=h)
             {
-              ans=mid;
+            //   ans=mid;
               r=mid-1;
             }
 
             else l=mid+1;
         }
 
-        return ans;
+        return l;
     }
 };
