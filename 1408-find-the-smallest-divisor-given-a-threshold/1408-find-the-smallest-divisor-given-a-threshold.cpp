@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int findSum(vector<int>& nums, int x)
+    bool findSum(vector<int>& nums, int x, int thres)
     {
         int sum=0;
         for(auto i: nums)
@@ -8,7 +8,7 @@ public:
             sum+=ceil((double)i/(double)x);
         }
 
-        return sum;
+        return sum<=thres;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n=nums.size();
@@ -19,9 +19,9 @@ public:
         {
             int mid=(l+r)/2;
 
-            int curr_sum=findSum(nums,mid);
+            // int curr_sum=findSum(nums,mid);
            
-            if(curr_sum<=threshold)
+            if(findSum(nums,mid,threshold))
             {
                 r=mid-1;
                 // sum=min(sum,curr_sum);
