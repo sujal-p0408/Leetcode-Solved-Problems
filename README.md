@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
@@ -269,11 +270,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
