@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Number Theory
