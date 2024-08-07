@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
