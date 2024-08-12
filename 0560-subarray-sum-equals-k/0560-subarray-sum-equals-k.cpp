@@ -1,25 +1,28 @@
 class Solution {
 public:
-    int subarraySum(vector<int>& arr, int k) {
-    int n = arr.size(); // size of the given array.
-    map<int,int> mpp;
-    int preSum = 0, cnt = 0;
+    int subarraySum(vector<int>& nums, int k) {
+        int n=nums.size();
+        vector<int> p_sum(n);
+        p_sum[0]=nums[0];
+        for(int i=1;i<n;i++)
+        {
+            p_sum[i]=p_sum[i-1]+nums[i];
+        }
 
-    mpp[0] = 1; // Setting 0 in the map.
-    for (int i = 0; i < n; i++) {
-        // add current element to prefix Sum:
-        preSum += arr[i];
+        unordered_map<int,int> mp;
+        int cnt=0;
+        for(int i=0;i<n;i++)
+        {
+            if(p_sum[i]==k) cnt++;
 
-        // Calculate x-k:
-        int remove = preSum - k;
+            if(mp.find(p_sum[i]-k)!=mp.end())
+            {
+                cnt+=mp[p_sum[i]-k];
+            }
 
-        // Add the number of subarrays to be removed:
-        cnt += mpp[remove];
-
-        // Update the count of prefix sum
-        // in the map.
-        mpp[preSum] += 1;
-    }
-    return cnt;
+            mp[p_sum[i]]++;
+        }
+        
+        return cnt;
     }
 };
