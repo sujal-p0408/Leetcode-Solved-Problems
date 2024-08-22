@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
@@ -367,4 +368,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
