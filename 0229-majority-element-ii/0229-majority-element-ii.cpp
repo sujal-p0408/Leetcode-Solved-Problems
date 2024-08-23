@@ -1,30 +1,22 @@
 class Solution {
 public:
-    vector<int> majorityElement(vector<int>& v) {
-      int n = v.size(); //size of the array
-    vector<int> ls; // list of answers
-
-    for (int i = 0; i < n; i++) {
-        //selected element is v[i]:
-        // Checking if v[i] is not already
-        // a part of the answer:
-        if (ls.size() == 0 || ls[0] != v[i]) {
-            int cnt = 0;
-            for (int j = 0; j < n; j++) {
-                // counting the frequency of v[i]
-                if (v[j] == v[i]) {
-                    cnt++;
-                }
+    vector<int> majorityElement(vector<int>& nums) {
+        vector<int> ans;
+        int n=nums.size();
+        map<int,int> mp;
+        int mini=n/3;
+        for(int i=0;i<n;i++)
+        {
+            mp[nums[i]]++;
+            if(mp[nums[i]] > mini)
+            {
+                if(ans.size()==0) ans.push_back(nums[i]);
+                else if(ans[0]!=nums[i]) ans.push_back(nums[i]);
             }
 
-            // check if frquency is greater than n/3:
-            if (cnt > (n / 3))
-                ls.push_back(v[i]);
+            if(ans.size()==2) break;
         }
 
-        if (ls.size() == 2) break;
-    }
-
-    return ls;
+        return ans;
     }
 };
