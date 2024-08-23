@@ -10,8 +10,8 @@ public:
             mp[nums[i]]++;
             if(mp[nums[i]] > mini)
             {
-                if(ans.size()==0) ans.push_back(nums[i]);
-                else if(ans[0]!=nums[i]) ans.push_back(nums[i]);
+                if(ans.size()==0 || ans[0]!=nums[i]) ans.push_back(nums[i]);
+                
             }
 
             if(ans.size()==2) break;
