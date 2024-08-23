@@ -1,44 +1,30 @@
 class Solution {
 public:
-    vector<int> majorityElement(vector<int>& nums) {
-         int cnt1 = 0;
-         int cnt2 = 0;
-        int cand1 = 0;
-        int cand2 = 0;
-        vector<int> ans;
-        for (int num : nums) {
-            if (cnt1 == 0 && num!=cand2) {
-                cnt1=1;
-                cand1 = num;
+    vector<int> majorityElement(vector<int>& v) {
+      int n = v.size(); //size of the array
+    vector<int> ls; // list of answers
+
+    for (int i = 0; i < n; i++) {
+        //selected element is v[i]:
+        // Checking if v[i] is not already
+        // a part of the answer:
+        if (ls.size() == 0 || ls[0] != v[i]) {
+            int cnt = 0;
+            for (int j = 0; j < n; j++) {
+                // counting the frequency of v[i]
+                if (v[j] == v[i]) {
+                    cnt++;
+                }
             }
 
-           else if (cnt2 == 0 && num!=cand1) {
-            cnt2=1;
-                cand2 = num;
-            }
-            
-            else if (num == cand1) {
-                cnt1++;
-            }
-            
-            else if (num == cand2) {
-                cnt2++;
-            }
-             else {
-                cnt1--,cnt2--;
-            }
+            // check if frquency is greater than n/3:
+            if (cnt > (n / 3))
+                ls.push_back(v[i]);
         }
-        cnt1=0,cnt2=0;
-        int mini=nums.size()/3+1;
-       for(int i=0;i<nums.size();i++)
-       {
-        if(nums[i]==cand1) cnt1++;
-        else if(nums[i]==cand2) cnt2++;
-       }
 
-       if(cnt1>=mini) ans.push_back(cand1);
-       if(cnt2>=mini) ans.push_back(cand2);
-  
-  return ans;
+        if (ls.size() == 2) break;
+    }
+
+    return ls;
     }
 };
