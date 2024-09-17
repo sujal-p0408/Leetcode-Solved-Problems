@@ -4,24 +4,20 @@ public:
         int n=s.size();
         int cnt=0;
         string ans="";
-        int startIdx=0;
-        int endIdx=0;
+        // int startIdx=0;
+        // int endIdx=0;
         for(int i=0;i<n;i++)
         {
             if(s[i]=='(')
             {
-                if(cnt==0) startIdx=i;
+                if(cnt>0) ans+=s[i];
 
                 cnt++;
             }
-
-            if(s[i]==')') cnt--;
-
-
-            if(cnt==0)
+            else
             {
-                endIdx=i;
-               ans.append(s.begin() + startIdx + 1, s.begin() + i);
+                cnt--;
+                if(cnt>0) ans+=s[i];
             }
         }
 
