@@ -2,7 +2,10 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         if (strs.empty()) return "";
-        sort(strs.begin(),strs.end());
+         std::sort(strs.begin(), strs.end(), [](const std::string& a, const std::string& b) {
+        return a.size() < b.size();
+    }); // sorts by size
+    
         for(auto s: strs)
         {
             cout<<s<<" ";
