@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Number Theory
