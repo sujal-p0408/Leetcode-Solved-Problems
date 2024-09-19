@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0812-rotate-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -404,4 +405,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
