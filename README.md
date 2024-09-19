@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
