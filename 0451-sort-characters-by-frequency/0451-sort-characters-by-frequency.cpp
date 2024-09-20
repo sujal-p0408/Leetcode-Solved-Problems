@@ -1,15 +1,24 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        int umap[128]={0};
-        
-        for(auto i: s) umap[i]++;
+        unordered_map<char,int> umap;
+        // int n=s.length();
 
-        sort(s.begin(),s.end(), [&](char a, char b) 
+        for(auto i: s) umap[i]++;
+        
+        vector<pair<char,int>> v;
+
+        for(auto& [c,freq] : umap)  v.push_back(make_pair(c, freq));
+        sort(v.begin(),v.end(), [&](auto a, auto b) 
         {
-            return umap[a]>umap[b] || (umap[a]==umap[b] && a>b);
+            return a.second>b.second;
         });
 
-        return s;
+
+        string ans;
+        for (auto& [c, freq] : v)
+            ans.append(freq, c);
+        return ans;
+
     }
 };
