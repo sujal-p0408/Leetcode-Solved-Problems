@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -395,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -417,4 +422,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
