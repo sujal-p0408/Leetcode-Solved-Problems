@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0069-sqrtx) |
