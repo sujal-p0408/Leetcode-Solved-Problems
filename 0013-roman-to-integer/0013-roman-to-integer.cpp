@@ -13,7 +13,7 @@ public:
         int ans=0;
         for(int i=0;i<n;i++)
         {
-            if(i<n-1 && umap[s[i]] < umap[s[i+1]]) ans-=umap[s[i]];
+            if(umap[s[i]] < umap[s[i+1]]) ans-=umap[s[i]];
             else ans+=umap[s[i]];
         }
 
