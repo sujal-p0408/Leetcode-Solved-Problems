@@ -4,23 +4,21 @@ public:
         unordered_map<char,int> umap;
         for(auto i: s) umap[i]++;
 
-        vector<pair<char,int>> v;
+        priority_queue<pair<int,char>> maxHeap;
 
-        for(auto [c,freq]: umap)
-        v.push_back(make_pair(c,freq));
-
-        sort(v.begin(),v.end(), [](auto a, auto b)
+        for(auto& it: umap)
         {
-            return a.second>b.second;
+            maxHeap.push({it.second,it.first});
         }
-        );
 
         string ans;
-        for(auto [c,freq]: v)
+
+        while(!maxHeap.empty())
         {
-            ans.append(freq,c);
-        } 
-       
-       return ans; 
+            ans.append(maxHeap.top().first,maxHeap.top().second);
+            maxHeap.pop();
+        }
+
+        return ans;
     }
 };
