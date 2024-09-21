@@ -4,19 +4,21 @@ public:
         unordered_map<char,int> umap;
         for(auto i: s) umap[i]++;
 
-        priority_queue<pair<int,char>> maxHeap;
+        vector<string> bucket(s.size()+1,"");
 
-        for(auto& it: umap)
+        for(auto i: umap)
         {
-            maxHeap.push({it.second,it.first});
+            bucket[i.second].push_back(i.first);
         }
 
         string ans;
-
-        while(!maxHeap.empty())
+        for(int i=s.size();i>=1;i--)
         {
-            ans.append(maxHeap.top().first,maxHeap.top().second);
-            maxHeap.pop();
+            if (!bucket[i].empty()) {   // Check if the bucket is not empty
+                for(auto ch: bucket[i]) {
+                    ans.append(i, ch); // Append the character i times
+                }
+            }
         }
 
         return ans;
