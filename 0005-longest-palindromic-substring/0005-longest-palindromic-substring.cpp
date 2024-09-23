@@ -1,36 +1,39 @@
 class Solution {
 public:
-     string longestPalindrome(string s) 
-{   
-    int len = s.size();
-    int dp[len][len];
-    memset(dp,0,sizeof(dp));
-    int end=1;
-    int start=0;
-	
-    for(int i=0;i<len;i++)
-    {
-        dp[i][i] = 1;
-    }
-    for(int i=0;i<len-1;i++)
-    {
-        if(s[i]==s[i+1])
-        { dp[i][i+1]=1;start=i;end=2;}
-    }
-    
-    for(int j=2;j<len;j++)
-    {
-        for(int i=0;i< len-j;i++)
-        {  
-            int left=i; //start point
-            int right = i+j;  //ending point
-            
-            if(dp[left+1][right-1]==1 && s[left]==s[right]) 
+    string longestPalindrome(string s) {
+        int n=s.length();
+
+        if(n<=1) return s;
+        
+        auto expand_from_center= [&](int l, int r)
+        {
+            while(l>=0 && r<n && s[l]==s[r])
             {
-                dp[left][right]=1; start=i; end=j+1; 
-            }        
+                l--;
+                r++;
+            }
+            return s.substr(l+1,r-l-1);
+        };
+
+        string maxi=s.substr(0,1);
+
+        for(int i=0;i<n-1;i++)
+        {
+           string odd=expand_from_center(i,i);
+           string even=expand_from_center(i,i+1);
+           
+           if(odd.length()>maxi.length())
+           {
+            maxi=odd;
+           }
+
+            if(even.length()>maxi.length())
+           {
+            maxi=even;
+           }
+
         }
+
+        return maxi;
     }
-   return s.substr(start, end);
-}
 };
