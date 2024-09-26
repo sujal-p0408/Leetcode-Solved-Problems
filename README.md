@@ -343,12 +343,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2050-count-good-numbers) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2050-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
