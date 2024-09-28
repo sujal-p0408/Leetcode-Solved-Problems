@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -439,4 +441,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
