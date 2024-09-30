@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -445,4 +448,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
