@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         int n=intervals.size();
+        if(n<=1) return intervals;
          vector<vector<int>> ans;
          sort(intervals.begin(),intervals.end());
          ans.push_back(intervals[0]);
