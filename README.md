@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -466,4 +470,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
