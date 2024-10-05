@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0189-rotate-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2050-count-good-numbers) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -421,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Number Theory
 |  |
 | ------- |
@@ -488,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Radix Sort
 |  |
 | ------- |
@@ -496,4 +502,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
