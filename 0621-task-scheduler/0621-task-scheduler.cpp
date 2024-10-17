@@ -1,16 +1,36 @@
 class Solution {
 public:
-    int leastInterval(vector<char>& tasks, int n) {
-         unordered_map<char,int>mp;
-        int count = 0;
-        for(auto e : tasks)
+    int leastInterval(vector<char>& tasks, int k) {
+    unordered_map<char,int> map;
+    for(auto i: tasks)
+    {
+        map[i]++;
+    }  
+    priority_queue<int> maxHeap;
+    for(auto i: map)
+    {
+        maxHeap.push(i.second);
+    }   
+    int ans=0;
+    while(!maxHeap.empty())
+    {
+        vector<int> temp;
+        for(int i=0;i<=k;i++)
         {
-            mp[e]++;
-            count = max(count, mp[e]);
+            if(!maxHeap.empty())
+            {
+                temp.push_back(maxHeap.top());
+                maxHeap.pop();
+            }
         }
-        
-        int ans = (count-1)*(n+1);
-        for(auto e : mp) if(e.second == count) ans++;
-        return max((int)tasks.size(), ans);
+
+        for(int i=0;i<temp.size();i++)
+        {
+            if(--temp[i]>0) maxHeap.push(temp[i]);
+        }
+
+        ans+= maxHeap.empty() ? temp.size() : k+1;
+    }
+      return ans;
     }
 };
