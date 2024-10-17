@@ -3,26 +3,44 @@ public:
     bool isNStraightHand(vector<int>& hand, int k) {
         int n=hand.size();
         if(n%k!=0) return false;
-        // priority_queue<int> 
-        sort(hand.begin(),hand.end());
-        while(!hand.empty())
-        {
-          int smallest=hand[0];
-          for(int i=1;i<k;i++)
-          {
-            if (std::find(hand.begin(), hand.end(), smallest + i) == hand.end()) return false;
-            else
-            {
-                auto it = std::find(hand.begin(), hand.end(), smallest+i); 
-if (it != hand.end()) {
-    hand.erase(it); 
-}
-            }
-          }
-          auto it = std::find(hand.begin(), hand.end(), smallest);
-          hand.erase(it);
+        priority_queue<int,vector<int>, greater<int>> minHeap;
 
-    }
-    return true;
+        for(int i: hand)
+        {
+            minHeap.push(i);
+        } 
+       int prev=-1, curr=0;
+        vector<int> temp;
+       while(!minHeap.empty())
+       {
+        int t=minHeap.top();
+        minHeap.pop();
+
+         if(prev==-1 || t-prev==1)
+         {
+            prev=t;
+            curr++;
+         }
+
+         else
+         {
+            temp.push_back(t);
+         }
+
+         if(curr==k)
+         {
+            prev=-1;
+            curr=0;
+
+            for(auto i: temp)
+            {
+                minHeap.push(i);
+            }
+
+            temp={};
+         }
+       }
+
+       return !(curr>0);
     }
 };
