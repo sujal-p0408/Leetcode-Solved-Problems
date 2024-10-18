@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0355-design-twitter) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -541,4 +544,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
