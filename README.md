@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
