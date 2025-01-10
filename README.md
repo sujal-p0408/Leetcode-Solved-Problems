@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
