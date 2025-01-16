@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1206-corporate-flight-bookings](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1833-find-the-highest-altitude](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1833-find-the-highest-altitude) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1206-corporate-flight-bookings](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1833-find-the-highest-altitude](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 ## Sorting
