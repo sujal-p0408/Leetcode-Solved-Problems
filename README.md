@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2358-number-of-ways-to-split-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Queue
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 ## Sorting
 |  |
 | ------- |
