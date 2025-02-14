@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1206-corporate-flight-bookings](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1206-corporate-flight-bookings) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -567,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -576,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -596,4 +601,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
