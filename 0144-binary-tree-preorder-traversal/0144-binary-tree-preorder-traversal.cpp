@@ -1,33 +1,35 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        
-        stack<TreeNode*> st;
-        vector<int> ans;
-        if(root==nullptr) return ans;
-        st.push(root);
-        while(!st.empty())
-        {
-            TreeNode* node=st.top();
-            st.pop();
-            if(node!=nullptr) ans.push_back(node->val);
-            if(node->right!=nullptr) st.push(node->right);
-            if(node->left!=nullptr) st.push(node->left);
+        vector<int> preorder;
+        TreeNode* cur = root;
+
+        while (cur != NULL) {
+            if (cur->left == NULL) {
+                preorder.push_back(cur->val);
+                cur = cur->right;
+            } else {
+                TreeNode* prev = cur->left;
+                while (prev->right && prev->right != cur) {
+                    prev = prev->right;
+                }
+
+                if (prev->right == NULL) {
+                    // Create thread
+                    prev->right = cur;
+
+                    // ✅ Add value before going left
+                    preorder.push_back(cur->val);
+
+                    cur = cur->left;
+                } else {
+                    // Thread already exists, remove it
+                    prev->right = NULL;
+                    cur = cur->right;
+                }
+            }
         }
 
-
-        return ans;
-
+        return preorder;
     }
 };
