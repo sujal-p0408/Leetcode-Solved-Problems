@@ -1,39 +1,37 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-         vector<int> ans;
-         if(root==nullptr) return ans;
-         stack<TreeNode*> st;
-        TreeNode* node=root;
+        vector<int> inorder;
+        TreeNode* cur = root;
 
-         while(true)
-         {
-           if(node!=nullptr)
-           {
-            st.push(node);
-            node=node->left;
-           }
-           else
-           {
-             if(st.empty()) break;
-             node=st.top();
-             st.pop();
-             ans.push_back(node->val);
-             node=node->right;
-           }
-         }
+        while (cur != NULL) {
+            if (cur->left == NULL) {
+                // ✅ Process the current node
+                inorder.push_back(cur->val);
+                cur = cur->right;
+            } else {
+                TreeNode* prev = cur->left;
 
-         return ans;
+                // Find the rightmost node in left subtree or thread
+                while (prev->right && prev->right != cur) {
+                    prev = prev->right;
+                }
+
+                if (prev->right == NULL) {
+                    // Create thread to the current node
+                    prev->right = cur;
+                    cur = cur->left;
+                } else {
+                    // Thread exists, remove it and process current
+                    prev->right = NULL;
+
+                    // ✅ Process current after left is done
+                    inorder.push_back(cur->val);
+                    cur = cur->right;
+                }
+            }
+        }
+
+        return inorder;
     }
 };
