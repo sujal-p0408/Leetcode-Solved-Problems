@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0205-isomorphic-strings) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0355-design-twitter](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0355-design-twitter) |
@@ -621,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0355-design-twitter) |
 ## Depth-First Search
@@ -674,4 +677,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0547-number-of-provinces) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sujal-p0408/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
