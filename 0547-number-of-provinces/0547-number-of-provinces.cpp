@@ -1,13 +1,6 @@
 class Solution {
 public:
-void dfs(vector<vector<int>>& M, vector<int>& visited, int i) {
-        for (int j = 0; j < M.size(); j++) {
-            if (M[i][j] == 1 && visited[j] == 0) {
-                visited[j] = 1;
-                dfs(M, visited, j);
-            }
-        }
-    }
+
 
     int findCircleNum(vector<vector<int>>& M) {
          int cnt=0;
@@ -20,7 +13,23 @@ void dfs(vector<vector<int>>& M, vector<int>& visited, int i) {
             {
                 visited[i]=1;
                 cnt++;
-                dfs(M,visited,i);
+                queue<int> q;
+                q.push(i);
+
+                while(!q.empty())
+                {
+                    int node=q.front();
+                    q.pop();
+
+                    for(int j=0;j<n;j++)
+                    {
+                        if(M[node][j]==1 && !visited[j])
+                        {
+                            visited[j]=1;
+                            q.push(j);
+                        }
+                    }
+                }
             }
         }
 
