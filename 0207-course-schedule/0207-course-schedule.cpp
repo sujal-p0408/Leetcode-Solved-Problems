@@ -1,35 +1,43 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> graph(numCourses);
-        vector<int> indegree(numCourses, 0);
+    bool canFinish(int V, vector<vector<int>>& prerequisites) {
+       vector<int> indegree(V);
+       vector<vector<int>> adj(V);
+       for(auto it: prerequisites)
+       {
+        adj[it[0]].push_back(it[1]);
+       }
 
-        // Build the graph and compute indegrees
-        for (auto& pre : prerequisites) {
-            int u = pre[1], v = pre[0];
-            graph[u].push_back(v);
-            indegree[v]++;
+    for (int i = 0; i < V; i++) {
+        for (auto it : adj[i]) {
+            indegree[it]++;
         }
-
-        queue<int> q;
-        // Push all courses with no prerequisites (indegree 0)
-        for (int i = 0; i < numCourses; ++i) {
-            if (indegree[i] == 0)
-                q.push(i);
+    }
+    // Queue to store vertices with indegree 0
+    queue<int> q;
+    for (int i = 0; i < V; i++) {
+        if (indegree[i] == 0) {
+            q.push(i);
         }
+    }
 
-        int count = 0;
-        while (!q.empty()) {
-            int curr = q.front(); q.pop();
-            count++;
-            for (int neighbor : graph[curr]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0)
-                    q.push(neighbor);
-            }
+    vector<int> result;
+    while (!q.empty()) {
+        int node = q.front();
+        q.pop();
+        result.push_back(node);
+        
+        // Decrease indegree of adjacent vertices as the
+        // current node is in topological order
+        for (auto it : adj[node]) {
+            indegree[it]--;
+
+            // If indegree becomes 0, push it to the queue
+            if (indegree[it] == 0)
+                q.push(it);
         }
-
+    }
         // If we were able to process all courses
-        return count == numCourses;
+        return result.size() == V;
     }
 };
